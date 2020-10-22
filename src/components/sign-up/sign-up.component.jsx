@@ -46,6 +46,7 @@ class SignUp extends React.Component
       confirmPassword: ''
 
      })
+     
   }
   catch(error)
   {
